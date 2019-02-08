@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fulton", "Fulton\Fulton.csproj", "{640A0866-FDB0-4AE2-845B-302E69DC72EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fulton.Tests", "Fulton.Tests\Fulton.Tests.csproj", "{6DFD1217-7338-48DF-8258-36CCD973A96B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{640A0866-FDB0-4AE2-845B-302E69DC72EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{640A0866-FDB0-4AE2-845B-302E69DC72EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{640A0866-FDB0-4AE2-845B-302E69DC72EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{640A0866-FDB0-4AE2-845B-302E69DC72EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DFD1217-7338-48DF-8258-36CCD973A96B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DFD1217-7338-48DF-8258-36CCD973A96B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DFD1217-7338-48DF-8258-36CCD973A96B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DFD1217-7338-48DF-8258-36CCD973A96B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://xpertnet.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Fulton.Tests\\Fulton.Tests.csproj
+		SccProjectName1 = Fulton.Tests
+		SccLocalPath1 = Fulton.Tests
+		SccProjectUniqueName2 = Fulton\\Fulton.csproj
+		SccProjectName2 = Fulton
+		SccLocalPath2 = Fulton
+	EndGlobalSection
+EndGlobal
